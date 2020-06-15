@@ -11,8 +11,7 @@ bool Check(int a[],int x,int y)
     }
     return true;
 
-void Xuat(int a[],int n)
-{
+void Xuat(int a[],int n){
     cout<<"Cach sap xep thu "<<sol<<" la:"<<endl;
     for(int i = 1;i <= n;i++)
     {
